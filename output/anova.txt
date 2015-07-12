@@ -1,0 +1,30 @@
+*** b1 
+Analysis of Variance Table
+
+Response: value
+          Df    Sum Sq    Mean Sq F value    Pr(>F)    
+gain       5 0.0139130 0.00278259 139.445 < 2.2e-16 ***
+discount   5 0.0014159 0.00028318  14.191 1.266e-06 ***
+Residuals 25 0.0004989 0.00001995                      
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+*** b2 
+Analysis of Variance Table
+
+Response: value
+          Df    Sum Sq    Mean Sq F value    Pr(>F)    
+gain       5 0.0097911 0.00195822  647.68 < 2.2e-16 ***
+discount   5 0.0026868 0.00053735  177.73 < 2.2e-16 ***
+Residuals 25 0.0000756 0.00000302                      
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+*** b3 
+Analysis of Variance Table
+
+Response: value
+          Df    Sum Sq    Mean Sq F value    Pr(>F)    
+gain       5 0.0079798 0.00159596  268.89 < 2.2e-16 ***
+discount   5 0.0058417 0.00116833  196.85 < 2.2e-16 ***
+Residuals 25 0.0001484 0.00000594                      
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
