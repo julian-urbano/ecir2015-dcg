@@ -13,6 +13,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see http://www.gnu.org/licenses/.
 
-source ./config/paths.sh
+source config/paths.sh
 
-"$RSCRIPT" src/boxplots.R
+"$RSCRIPT" src/02-boxplots.R

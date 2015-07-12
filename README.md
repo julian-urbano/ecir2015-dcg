@@ -6,7 +6,7 @@ A [single ZIP file](https://github.com/julian-urbano/ecir2015-dcg/archive/master
 
 ## Project Structure
 
-* `bin/` Shell scripts to run the code.
+* `bin/` Shell scripts to run the code in Linux or Windows.
 * `config/` Machine-dependent configuration files.
 * `data/` Input data files.
 * `output/` Generated output files.
@@ -17,6 +17,8 @@ A [single ZIP file](https://github.com/julian-urbano/ecir2015-dcg/archive/master
 
 1. Edit the `config/paths.sh` file and make the variables point to the correct paths in your machine.
 2. Run the `bin/all.sh` script from the base directory. Alternatively, you can run each script in `bin/` individually, as long as you follow the order.
+
+If you are on a Windows machine, just use the `.bat` files instead of the `.sh` files.
 
 ## Details
 
