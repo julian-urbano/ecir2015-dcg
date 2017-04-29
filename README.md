@@ -1,6 +1,6 @@
 This archive contains the data and source code for the following paper:
 
-* J. Urbano and M. Marrero, "[How do Gain and Discount Functions Affect the Correlation between DCG and User Satisfaction?](http://julian-urbano.info/wp-content/uploads/062-how-gain-discount-functions-affect-correlation-system-effectiveness-user-satisfaction.pdf)", *European Conference on Information Retrieval*, 2015.
+* J. Urbano and M. Marrero, "[How do Gain and Discount Functions Affect the Correlation between DCG and User Satisfaction?](http://julian-urbano.info/files/publications/062-how-gain-discount-functions-affect-correlation-system-effectiveness-user-satisfaction.pdf)", *European Conference on Information Retrieval*, 2015.
 
 A [single ZIP file](https://github.com/julian-urbano/ecir2015-dcg/archive/master.zip) can be downloaded as well.
 
